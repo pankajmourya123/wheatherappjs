@@ -1,0 +1,17 @@
+span{
+    color:black;
+    font-weight: bolder;
+  
+}
+
+li{
+    font-style: italic;
+}
+
+.head{
+    position: relative;
+    left:40%;
+    font-size: 3rem;
+    text-decoration: none;
+    color: black;
+}
